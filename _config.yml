@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+title: EURO-CORDEX Github Pages
+description: January 2020
+baseurl: /euro-cordex.github.io
